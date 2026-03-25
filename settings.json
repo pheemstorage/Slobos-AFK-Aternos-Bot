@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Pheem",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Pheem",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "survival666666777777.mcsh.io",
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "I like this server",
+        "Good Server!",
         "I like to play Minecraft!"
       ]
     },
