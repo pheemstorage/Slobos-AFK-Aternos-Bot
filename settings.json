@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalpaper.play.hosting",
-    "port": 27904,
+    "ip": "survivalseason1.mcsh.io",
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
